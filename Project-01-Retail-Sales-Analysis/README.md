@@ -11,4 +11,4 @@ Analyze retail sales data to identify sales trends, top-performing products, cus
 - Seaborn
 
 ## Project Status
-In Progress
+Completed
