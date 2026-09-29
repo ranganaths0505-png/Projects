@@ -1,0 +1,200 @@
+Customer_ID,Recency,Frequency,Monetary,Recency_Score,Frequency_Score,Monetary_Score,RFM_Score,Customer_Segment
+CUST001,32,7,59200,4,4,1,9,Potential Loyalists
+CUST002,34,6,277700,4,3,3,10,Potential Loyalists
+CUST003,88,9,440200,2,5,4,11,Loyal Customers
+CUST004,55,2,121500,3,1,1,5,Lost Customers
+CUST005,98,5,290500,2,2,3,7,Need Attention
+CUST006,16,9,472500,4,5,5,14,Champions
+CUST007,18,3,429000,4,1,4,9,Potential Loyalists
+CUST008,194,6,135300,1,3,2,6,Lost Customers
+CUST009,107,2,307500,1,1,3,5,Lost Customers
+CUST010,9,5,514000,5,2,5,12,Potential Loyalists
+CUST011,92,4,224400,2,2,3,7,Need Attention
+CUST012,36,5,179500,4,2,2,8,Need Attention
+CUST013,13,7,441400,5,4,4,13,Champions
+CUST014,33,7,560600,4,4,5,13,Champions
+CUST015,240,2,100000,1,1,1,3,Lost Customers
+CUST016,45,8,445400,3,5,4,12,Loyal Customers
+CUST017,15,6,373200,5,3,4,12,Potential Loyalists
+CUST018,129,4,323000,1,2,4,7,Need Attention
+CUST019,110,3,220000,1,1,2,4,Lost Customers
+CUST020,58,3,390000,3,1,4,8,Need Attention
+CUST021,75,4,303200,2,2,3,7,Need Attention
+CUST022,128,3,600800,1,1,5,7,Need Attention
+CUST023,13,6,227000,5,3,3,11,Potential Loyalists
+CUST024,181,4,366000,1,2,4,7,Need Attention
+CUST025,34,1,20000,4,1,1,6,Lost Customers
+CUST026,203,2,180000,1,1,2,4,Lost Customers
+CUST027,301,1,1500,1,1,1,3,Lost Customers
+CUST028,1,9,885200,5,5,5,15,Champions
+CUST029,29,7,265600,4,4,3,11,Potential Loyalists
+CUST030,69,2,270000,2,1,3,6,Lost Customers
+CUST031,28,3,121600,4,1,1,6,Lost Customers
+CUST032,11,5,365000,5,2,4,11,Potential Loyalists
+CUST033,20,2,270000,4,1,3,8,Need Attention
+CUST034,58,6,309000,3,3,3,9,Need Attention
+CUST035,22,6,463200,4,3,4,11,Potential Loyalists
+CUST036,64,1,1600,2,1,1,4,Lost Customers
+CUST037,0,6,377500,5,3,4,12,Potential Loyalists
+CUST038,213,3,223000,1,1,2,4,Lost Customers
+CUST039,117,6,94700,1,3,1,5,Lost Customers
+CUST040,56,3,10900,3,1,1,5,Lost Customers
+CUST041,142,5,213600,1,2,2,5,Lost Customers
+CUST042,40,6,215400,3,3,2,8,Need Attention
+CUST043,126,3,118200,1,1,1,3,Lost Customers
+CUST044,55,9,686000,3,5,5,13,Loyal Customers
+CUST045,94,5,195300,2,2,2,6,Lost Customers
+CUST046,42,6,601600,3,3,5,11,Need Attention
+CUST047,5,13,434100,5,5,4,14,Champions
+CUST048,87,4,30000,2,2,1,5,Lost Customers
+CUST049,14,3,480000,5,1,5,11,Potential Loyalists
+CUST050,62,4,389000,2,2,4,8,Need Attention
+CUST051,51,1,180000,3,1,2,6,Lost Customers
+CUST052,9,6,270000,5,3,3,11,Potential Loyalists
+CUST053,7,3,105800,5,1,1,7,Need Attention
+CUST054,20,3,8500,4,1,1,6,Lost Customers
+CUST055,33,5,139000,4,2,2,8,Need Attention
+CUST056,28,5,236000,4,2,3,9,Potential Loyalists
+CUST057,74,6,597200,2,3,5,10,At Risk
+CUST058,6,6,512000,5,3,5,13,Potential Loyalists
+CUST059,216,6,204000,1,3,2,6,Lost Customers
+CUST060,183,6,294000,1,3,3,7,At Risk
+CUST061,4,3,3900,5,1,1,7,Need Attention
+CUST062,99,4,130900,2,2,2,6,Lost Customers
+CUST063,34,5,376500,4,2,4,10,Potential Loyalists
+CUST064,63,4,134000,2,2,2,6,Lost Customers
+CUST065,35,2,92400,4,1,1,6,Lost Customers
+CUST066,2,10,912000,5,5,5,15,Champions
+CUST067,18,4,84500,4,2,1,7,Need Attention
+CUST068,108,3,160000,1,1,2,4,Lost Customers
+CUST069,13,9,316200,5,5,3,13,Potential Loyalists
+CUST070,44,7,226200,3,4,3,10,Need Attention
+CUST071,163,2,63000,1,1,1,3,Lost Customers
+CUST072,61,6,107500,2,3,1,6,Lost Customers
+CUST073,81,2,9000,2,1,1,4,Lost Customers
+CUST074,26,6,207500,4,3,2,9,Potential Loyalists
+CUST075,115,4,133900,1,2,2,5,Lost Customers
+CUST076,9,7,470000,5,4,5,14,Champions
+CUST077,10,7,351200,5,4,4,13,Champions
+CUST078,198,2,62400,1,1,1,3,Lost Customers
+CUST079,48,4,21900,3,2,1,6,Lost Customers
+CUST080,178,3,332400,1,1,4,6,Lost Customers
+CUST081,100,2,150000,2,1,2,5,Lost Customers
+CUST082,182,3,260000,1,1,3,5,Lost Customers
+CUST083,11,5,444600,5,2,4,11,Potential Loyalists
+CUST084,53,3,322500,3,1,4,8,Need Attention
+CUST085,302,1,15000,1,1,1,3,Lost Customers
+CUST086,67,7,500900,2,4,5,11,Loyal Customers
+CUST087,135,5,395000,1,2,4,7,Need Attention
+CUST088,71,6,362800,2,3,4,9,At Risk
+CUST089,25,6,258000,4,3,3,10,Potential Loyalists
+CUST090,8,6,573100,5,3,5,13,Potential Loyalists
+CUST091,12,6,301700,5,3,3,11,Potential Loyalists
+CUST092,2,5,85500,5,2,1,8,Need Attention
+CUST093,39,6,233700,3,3,3,9,Need Attention
+CUST094,4,6,411600,5,3,4,12,Potential Loyalists
+CUST095,57,6,351400,3,3,4,10,Need Attention
+CUST096,362,1,180000,1,1,2,4,Lost Customers
+CUST097,21,4,363000,4,2,4,10,Potential Loyalists
+CUST098,25,4,121000,4,2,1,7,Need Attention
+CUST099,67,6,266900,2,3,3,8,At Risk
+CUST100,3,3,309000,5,1,3,9,Potential Loyalists
+CUST101,68,8,766100,2,5,5,12,Loyal Customers
+CUST102,2,9,336200,5,5,4,14,Champions
+CUST103,153,1,120000,1,1,1,3,Lost Customers
+CUST104,65,6,194800,2,3,2,7,Need Attention
+CUST105,0,4,319800,5,2,4,11,Potential Loyalists
+CUST106,113,6,395800,1,3,4,8,At Risk
+CUST107,37,5,670000,3,2,5,10,Need Attention
+CUST108,80,6,677600,2,3,5,10,At Risk
+CUST109,30,4,234000,4,2,3,9,Potential Loyalists
+CUST110,10,3,223000,5,1,2,8,Need Attention
+CUST111,50,2,170000,3,1,2,6,Lost Customers
+CUST112,126,4,270000,1,2,3,6,Lost Customers
+CUST113,8,5,287500,5,2,3,10,Potential Loyalists
+CUST114,12,9,305400,5,5,3,13,Potential Loyalists
+CUST115,155,3,452400,1,1,4,6,Lost Customers
+CUST116,35,8,441300,4,5,4,13,Champions
+CUST117,55,5,539000,3,2,5,10,Need Attention
+CUST118,130,5,146100,1,2,2,5,Lost Customers
+CUST119,69,5,446900,2,2,4,8,Need Attention
+CUST120,29,5,316600,4,2,3,9,Potential Loyalists
+CUST121,53,8,759800,3,5,5,13,Loyal Customers
+CUST122,37,3,201500,3,1,2,6,Lost Customers
+CUST123,42,6,468400,3,3,5,11,Need Attention
+CUST124,70,6,303000,2,3,3,8,At Risk
+CUST125,51,6,530600,3,3,5,11,Need Attention
+CUST126,46,4,74500,3,2,1,6,Lost Customers
+CUST127,76,5,81200,2,2,1,5,Lost Customers
+CUST128,73,3,420000,2,1,4,7,Need Attention
+CUST129,41,7,426000,3,4,4,11,Loyal Customers
+CUST130,41,6,314500,3,3,3,9,Need Attention
+CUST131,46,4,316600,3,2,3,8,Need Attention
+CUST132,87,6,516000,2,3,5,10,At Risk
+CUST133,99,5,541500,2,2,5,9,Need Attention
+CUST134,137,1,20000,1,1,1,3,Lost Customers
+CUST135,23,4,136200,4,2,2,8,Need Attention
+CUST136,36,6,401000,4,3,4,11,Potential Loyalists
+CUST137,239,2,93000,1,1,1,3,Lost Customers
+CUST138,278,2,200000,1,1,2,4,Lost Customers
+CUST139,30,3,129000,4,1,1,6,Lost Customers
+CUST140,56,7,520800,3,4,5,12,Loyal Customers
+CUST141,1,9,1170000,5,5,5,15,Champions
+CUST142,6,7,275000,5,4,3,12,Potential Loyalists
+CUST143,44,3,214500,3,1,2,6,Lost Customers
+CUST144,116,5,442000,1,2,4,7,Need Attention
+CUST145,150,3,7800,1,1,1,3,Lost Customers
+CUST146,24,5,171000,4,2,2,8,Need Attention
+CUST147,4,7,420100,5,4,4,13,Champions
+CUST148,19,5,646000,4,2,5,11,Potential Loyalists
+CUST149,65,5,85600,2,2,1,5,Lost Customers
+CUST150,157,4,203500,1,2,2,5,Lost Customers
+CUST151,26,7,94700,4,4,1,9,Potential Loyalists
+CUST152,33,5,175600,4,2,2,8,Need Attention
+CUST153,93,5,171000,2,2,2,6,Lost Customers
+CUST154,61,2,180000,2,1,2,5,Lost Customers
+CUST155,37,4,376000,3,2,4,9,Need Attention
+CUST156,64,5,708000,2,2,5,9,Need Attention
+CUST157,73,7,191800,2,4,2,8,Need Attention
+CUST158,21,10,345500,4,5,4,13,Champions
+CUST159,122,6,503800,1,3,5,9,At Risk
+CUST160,106,6,230000,2,3,3,8,At Risk
+CUST161,5,2,390000,5,1,4,10,Potential Loyalists
+CUST162,22,8,829500,4,5,5,14,Champions
+CUST163,111,7,388000,1,4,4,9,Loyal Customers
+CUST164,17,8,472000,4,5,5,14,Champions
+CUST165,75,5,256500,2,2,3,7,Need Attention
+CUST167,71,4,33000,2,2,1,5,Lost Customers
+CUST168,60,8,514200,3,5,5,13,Loyal Customers
+CUST169,8,3,10600,5,1,1,7,Need Attention
+CUST170,116,7,170800,1,4,2,7,Need Attention
+CUST171,1,5,314000,5,2,3,10,Potential Loyalists
+CUST172,38,3,188400,3,1,2,6,Lost Customers
+CUST173,109,6,152600,1,3,2,6,Lost Customers
+CUST174,12,5,172200,5,2,2,9,Potential Loyalists
+CUST175,14,5,237700,5,2,3,10,Potential Loyalists
+CUST176,57,7,683000,3,4,5,12,Loyal Customers
+CUST177,0,11,543300,5,5,5,15,Champions
+CUST178,28,6,829000,4,3,5,12,Potential Loyalists
+CUST179,47,8,638800,3,5,5,13,Loyal Customers
+CUST180,57,4,290000,3,2,3,8,Need Attention
+CUST181,21,5,194500,4,2,2,8,Need Attention
+CUST182,85,6,223900,2,3,3,8,At Risk
+CUST183,32,4,178000,4,2,2,8,Need Attention
+CUST184,15,7,301200,5,4,3,12,Potential Loyalists
+CUST185,16,7,551200,4,4,5,13,Champions
+CUST186,84,7,216800,2,4,2,8,Need Attention
+CUST187,54,4,89000,3,2,1,6,Lost Customers
+CUST188,39,5,246000,3,2,3,8,Need Attention
+CUST189,48,4,214000,3,2,2,7,Need Attention
+CUST190,3,3,62300,5,1,1,7,Need Attention
+CUST191,19,6,517000,4,3,5,12,Potential Loyalists
+CUST192,77,7,647500,2,4,5,11,Loyal Customers
+CUST193,20,8,741600,4,5,5,14,Champions
+CUST194,128,5,250500,1,2,3,6,Lost Customers
+CUST195,7,4,16800,5,2,1,8,Need Attention
+CUST196,83,5,24200,2,2,1,5,Lost Customers
+CUST197,60,3,125400,3,1,1,5,Lost Customers
+CUST198,78,5,266000,2,2,3,7,Need Attention
+CUST199,14,8,730000,5,5,5,15,Champions
+CUST200,36,5,407200,4,2,4,10,Potential Loyalists
