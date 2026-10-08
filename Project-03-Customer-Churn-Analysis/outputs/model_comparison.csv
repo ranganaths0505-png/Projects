@@ -1,3 +1,0 @@
-Model,Accuracy,Churn_Precision,Churn_Recall,Churn_F1
-Logistic Regression,0.62,0.6,0.4382,0.5065
-Decision Tree,0.6,0.59,0.33,0.42
