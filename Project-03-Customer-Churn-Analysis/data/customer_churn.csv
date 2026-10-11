@@ -1,0 +1,1001 @@
+Customer_ID,Age,Tenure_Months,Monthly_Charges,Contract_Type,Support_Calls,Payment_Method,Internet_Service,Churn
+1,56,35,655,One year,8,Credit Card,Fiber,Yes
+2,69,51,557,Two year,0,UPI,No Internet,Yes
+3,46,15,1017,Month-to-month,10,Debit Card,Fiber,No
+4,32,25,888,Month-to-month,3,Credit Card,No Internet,No
+5,60,55,823,Month-to-month,0,Credit Card,No Internet,No
+6,25,37,594,Month-to-month,5,Bank Transfer,DSL,No
+7,38,28,523,One year,3,Bank Transfer,No Internet,No
+8,56,10,824,One year,4,Bank Transfer,DSL,Yes
+9,36,39,345,Month-to-month,4,Credit Card,DSL,No
+10,40,57,966,Month-to-month,8,Debit Card,DSL,Yes
+11,28,17,412,Month-to-month,0,Bank Transfer,DSL,No
+12,28,39,532,One year,1,Debit Card,No Internet,No
+13,41,22,316,Month-to-month,5,Bank Transfer,Fiber,Yes
+14,53,26,659,Month-to-month,4,UPI,Fiber,No
+15,57,44,522,Month-to-month,10,UPI,Fiber,Yes
+16,41,25,1165,Two year,6,Bank Transfer,No Internet,Yes
+17,20,17,999,Month-to-month,2,Credit Card,DSL,No
+18,39,13,747,Two year,2,Bank Transfer,Fiber,Yes
+19,19,20,1155,Two year,9,Bank Transfer,No Internet,No
+20,41,25,664,Month-to-month,1,Credit Card,DSL,Yes
+21,61,4,974,Two year,2,UPI,Fiber,Yes
+22,47,10,625,Month-to-month,9,Debit Card,DSL,Yes
+23,55,3,766,One year,0,Bank Transfer,Fiber,Yes
+24,19,41,713,One year,4,Credit Card,Fiber,No
+25,38,45,754,One year,4,Bank Transfer,Fiber,No
+26,50,18,885,One year,10,Credit Card,DSL,No
+27,29,47,532,Two year,6,Debit Card,No Internet,No
+28,39,36,523,Month-to-month,3,Debit Card,DSL,Yes
+29,61,47,1130,Month-to-month,2,UPI,Fiber,No
+30,42,22,711,Month-to-month,0,Credit Card,DSL,Yes
+31,66,34,871,One year,7,Credit Card,No Internet,Yes
+32,44,47,634,One year,2,UPI,DSL,No
+33,59,8,521,Month-to-month,1,UPI,No Internet,Yes
+34,45,40,336,One year,10,Credit Card,No Internet,Yes
+35,33,49,577,Month-to-month,3,UPI,DSL,No
+36,32,44,495,Month-to-month,2,Debit Card,Fiber,No
+37,64,19,1163,Month-to-month,0,Bank Transfer,No Internet,No
+38,68,42,783,Month-to-month,2,Debit Card,DSL,Yes
+39,61,41,541,Month-to-month,1,UPI,No Internet,Yes
+40,69,37,623,Month-to-month,7,Credit Card,Fiber,No
+41,20,6,1030,Month-to-month,5,Credit Card,DSL,Yes
+42,54,52,491,One year,8,Debit Card,DSL,No
+43,68,26,316,Month-to-month,7,Credit Card,DSL,Yes
+44,24,34,823,Month-to-month,9,UPI,Fiber,No
+45,38,59,700,One year,2,Debit Card,No Internet,Yes
+46,26,56,1185,One year,4,Credit Card,DSL,No
+47,56,59,1004,One year,6,Bank Transfer,No Internet,No
+48,35,45,321,Month-to-month,4,Bank Transfer,No Internet,No
+49,21,6,773,Two year,7,UPI,Fiber,Yes
+50,42,37,419,Two year,4,Credit Card,DSL,No
+51,31,57,509,One year,0,UPI,No Internet,No
+52,67,33,605,Two year,4,Debit Card,DSL,Yes
+53,26,53,569,One year,3,Bank Transfer,DSL,No
+54,43,22,1003,Month-to-month,5,Debit Card,Fiber,Yes
+55,19,21,986,Two year,2,Credit Card,DSL,Yes
+56,37,6,584,Month-to-month,10,UPI,DSL,No
+57,45,6,1015,Two year,4,UPI,No Internet,Yes
+58,64,55,975,Month-to-month,1,UPI,Fiber,No
+59,24,48,1062,Two year,10,Debit Card,DSL,Yes
+60,61,4,526,Month-to-month,5,Bank Transfer,No Internet,No
+61,25,30,680,Month-to-month,5,Debit Card,Fiber,No
+62,64,11,759,Two year,4,Debit Card,Fiber,No
+63,52,30,306,Month-to-month,5,Credit Card,No Internet,Yes
+64,31,31,328,Month-to-month,10,Credit Card,No Internet,Yes
+65,34,24,332,Month-to-month,6,Credit Card,No Internet,No
+66,53,55,945,Two year,4,Bank Transfer,No Internet,Yes
+67,67,9,1178,Two year,0,Bank Transfer,No Internet,Yes
+68,57,55,378,Month-to-month,7,Credit Card,DSL,No
+69,21,3,758,Month-to-month,3,Credit Card,DSL,No
+70,19,51,869,Two year,8,Bank Transfer,Fiber,No
+71,23,31,837,Two year,9,UPI,DSL,Yes
+72,59,40,781,Month-to-month,5,Bank Transfer,DSL,Yes
+73,21,37,729,Month-to-month,0,Bank Transfer,DSL,Yes
+74,46,36,1037,Month-to-month,2,Bank Transfer,No Internet,No
+75,35,24,584,One year,2,Credit Card,Fiber,No
+76,43,31,815,Two year,9,UPI,Fiber,No
+77,61,6,398,One year,3,Bank Transfer,Fiber,No
+78,51,2,696,Two year,5,Credit Card,Fiber,No
+79,27,20,788,Two year,6,Debit Card,DSL,No
+80,53,28,338,Two year,9,Debit Card,DSL,Yes
+81,31,11,570,Two year,3,Bank Transfer,No Internet,No
+82,48,4,1186,Two year,5,Debit Card,Fiber,No
+83,65,15,1096,Two year,10,UPI,DSL,No
+84,32,6,456,Two year,0,Debit Card,DSL,No
+85,25,54,374,One year,7,Debit Card,No Internet,No
+86,31,49,1183,Month-to-month,6,UPI,No Internet,No
+87,40,30,1099,Month-to-month,10,Bank Transfer,No Internet,No
+88,57,56,429,One year,10,Bank Transfer,DSL,No
+89,38,38,986,One year,8,UPI,DSL,Yes
+90,33,51,383,One year,2,UPI,No Internet,Yes
+91,62,57,321,One year,1,UPI,Fiber,No
+92,35,2,758,Two year,0,Debit Card,No Internet,No
+93,64,15,838,Month-to-month,2,UPI,No Internet,Yes
+94,41,11,1006,Two year,4,Credit Card,No Internet,No
+95,43,8,1148,Month-to-month,10,Debit Card,No Internet,Yes
+96,42,26,681,Month-to-month,1,Bank Transfer,DSL,Yes
+97,62,51,1047,One year,2,Bank Transfer,Fiber,No
+98,58,45,739,Two year,3,Bank Transfer,No Internet,Yes
+99,46,44,903,One year,6,Debit Card,Fiber,Yes
+100,32,5,320,Two year,2,Credit Card,Fiber,Yes
+101,62,6,602,Month-to-month,8,UPI,Fiber,No
+102,18,26,1168,One year,7,UPI,No Internet,No
+103,42,54,383,One year,3,Bank Transfer,DSL,No
+104,24,4,1073,Month-to-month,0,Bank Transfer,No Internet,No
+105,26,19,958,Month-to-month,0,Debit Card,Fiber,Yes
+106,41,20,752,Month-to-month,0,Credit Card,Fiber,No
+107,18,33,686,One year,0,UPI,DSL,Yes
+108,61,20,806,Two year,7,Debit Card,No Internet,No
+109,25,49,556,One year,2,UPI,Fiber,No
+110,41,12,869,Two year,5,Bank Transfer,DSL,No
+111,28,47,1191,One year,2,UPI,Fiber,Yes
+112,68,1,826,One year,10,Credit Card,DSL,No
+113,34,26,461,Month-to-month,4,Credit Card,DSL,Yes
+114,25,14,462,Two year,6,Bank Transfer,No Internet,Yes
+115,52,38,1131,One year,1,Credit Card,Fiber,No
+116,52,37,1092,One year,5,Credit Card,No Internet,Yes
+117,50,11,1091,Month-to-month,5,Debit Card,Fiber,No
+118,22,36,823,Month-to-month,10,UPI,No Internet,Yes
+119,59,13,1085,Two year,2,Bank Transfer,Fiber,Yes
+120,56,43,570,One year,5,Bank Transfer,No Internet,No
+121,58,3,791,Two year,9,Bank Transfer,DSL,No
+122,45,33,507,One year,9,Bank Transfer,Fiber,No
+123,24,6,838,Two year,4,Bank Transfer,Fiber,No
+124,26,50,883,Month-to-month,1,Credit Card,DSL,No
+125,25,56,359,One year,8,Debit Card,No Internet,Yes
+126,29,10,729,Two year,7,Bank Transfer,Fiber,No
+127,51,5,956,Month-to-month,2,Debit Card,Fiber,No
+128,50,23,904,Month-to-month,7,Debit Card,No Internet,No
+129,65,10,608,Two year,8,Credit Card,DSL,No
+130,40,44,819,One year,2,Bank Transfer,No Internet,No
+131,41,2,890,One year,2,Credit Card,No Internet,No
+132,54,13,326,Month-to-month,1,Bank Transfer,No Internet,No
+133,52,40,985,One year,7,Credit Card,Fiber,Yes
+134,61,2,861,One year,9,Debit Card,DSL,Yes
+135,57,20,498,One year,0,Bank Transfer,DSL,No
+136,39,1,686,Month-to-month,7,UPI,No Internet,Yes
+137,44,37,648,Two year,6,Debit Card,Fiber,No
+138,52,9,992,One year,6,UPI,No Internet,Yes
+139,18,17,835,Month-to-month,2,Debit Card,Fiber,No
+140,52,9,1127,Month-to-month,0,Credit Card,Fiber,Yes
+141,54,11,677,Two year,3,Bank Transfer,Fiber,Yes
+142,64,15,1198,One year,8,Debit Card,Fiber,No
+143,31,24,857,One year,4,Credit Card,DSL,No
+144,20,38,826,Two year,0,Bank Transfer,Fiber,No
+145,18,55,452,Two year,4,Bank Transfer,Fiber,No
+146,22,35,1033,Month-to-month,7,Debit Card,No Internet,No
+147,43,30,505,Month-to-month,7,Bank Transfer,No Internet,No
+148,31,31,754,Two year,4,Debit Card,DSL,No
+149,56,49,572,One year,8,Bank Transfer,No Internet,Yes
+150,44,5,1193,Month-to-month,0,UPI,Fiber,No
+151,26,60,535,Month-to-month,3,Credit Card,No Internet,No
+152,32,44,1151,One year,2,UPI,DSL,No
+153,32,50,1039,Month-to-month,1,Debit Card,No Internet,Yes
+154,43,14,820,One year,7,UPI,No Internet,No
+155,59,53,977,One year,6,Debit Card,DSL,No
+156,30,56,1130,One year,8,Bank Transfer,DSL,No
+157,68,11,1025,Two year,1,Bank Transfer,Fiber,Yes
+158,49,9,800,Two year,3,Debit Card,No Internet,No
+159,56,34,416,Two year,5,UPI,Fiber,Yes
+160,66,12,685,One year,10,Bank Transfer,No Internet,Yes
+161,69,35,643,One year,2,Credit Card,No Internet,No
+162,49,35,883,Two year,7,Bank Transfer,Fiber,No
+163,21,1,694,Month-to-month,2,Credit Card,No Internet,No
+164,47,40,363,One year,1,UPI,No Internet,No
+165,54,22,1016,Month-to-month,2,Credit Card,No Internet,Yes
+166,40,60,1020,Month-to-month,10,Credit Card,DSL,Yes
+167,56,29,371,One year,5,Credit Card,Fiber,No
+168,62,8,1088,One year,1,Credit Card,DSL,Yes
+169,32,11,573,Month-to-month,7,Bank Transfer,Fiber,Yes
+170,60,41,619,Month-to-month,0,Credit Card,Fiber,Yes
+171,46,37,637,Two year,6,Bank Transfer,No Internet,Yes
+172,53,14,665,Two year,1,Credit Card,Fiber,No
+173,30,60,794,One year,9,Debit Card,DSL,Yes
+174,49,30,906,Two year,5,UPI,DSL,No
+175,24,35,465,Two year,1,Credit Card,DSL,Yes
+176,68,21,843,Two year,1,Debit Card,Fiber,No
+177,39,37,310,Two year,9,Credit Card,DSL,Yes
+178,45,5,600,Month-to-month,7,Credit Card,Fiber,No
+179,19,19,1028,One year,1,Credit Card,DSL,No
+180,59,59,1100,Two year,6,Debit Card,DSL,Yes
+181,62,14,401,Month-to-month,2,UPI,Fiber,No
+182,23,26,724,Month-to-month,7,Debit Card,DSL,Yes
+183,45,4,691,Month-to-month,6,UPI,No Internet,No
+184,45,25,1078,Two year,7,Credit Card,Fiber,Yes
+185,61,45,513,Two year,6,Bank Transfer,Fiber,No
+186,61,42,990,One year,10,Credit Card,Fiber,Yes
+187,37,25,387,Two year,5,UPI,No Internet,No
+188,47,18,852,Two year,6,Debit Card,Fiber,Yes
+189,28,40,700,Month-to-month,4,Credit Card,DSL,Yes
+190,45,8,887,One year,6,Debit Card,DSL,No
+191,42,39,1188,Two year,0,Debit Card,DSL,No
+192,56,40,345,Two year,0,Debit Card,Fiber,Yes
+193,50,14,971,Month-to-month,8,Credit Card,DSL,Yes
+194,18,32,762,Month-to-month,4,Debit Card,Fiber,Yes
+195,44,51,891,Two year,4,Debit Card,DSL,Yes
+196,69,38,609,One year,2,Credit Card,No Internet,Yes
+197,30,33,385,One year,4,Debit Card,No Internet,No
+198,58,23,391,Month-to-month,2,Credit Card,No Internet,Yes
+199,20,15,959,Month-to-month,8,UPI,No Internet,Yes
+200,56,33,972,Two year,8,UPI,Fiber,No
+201,23,25,1013,Month-to-month,5,UPI,DSL,Yes
+202,25,17,541,Two year,0,Debit Card,No Internet,Yes
+203,44,33,1164,One year,6,Bank Transfer,Fiber,Yes
+204,26,47,301,One year,6,Bank Transfer,No Internet,No
+205,54,55,524,Two year,9,Debit Card,No Internet,Yes
+206,50,2,1100,Month-to-month,9,Bank Transfer,Fiber,No
+207,68,14,1044,One year,3,Credit Card,Fiber,Yes
+208,59,53,888,Month-to-month,7,Bank Transfer,DSL,No
+209,61,40,415,One year,5,Debit Card,DSL,Yes
+210,41,40,965,Two year,3,Debit Card,No Internet,No
+211,32,51,402,Two year,3,Credit Card,No Internet,No
+212,49,39,493,Two year,1,UPI,DSL,No
+213,49,51,465,One year,1,Debit Card,DSL,Yes
+214,41,6,1170,Month-to-month,3,Credit Card,Fiber,Yes
+215,58,6,389,Month-to-month,4,Bank Transfer,DSL,Yes
+216,69,3,985,Month-to-month,7,Bank Transfer,DSL,Yes
+217,66,7,421,One year,5,Credit Card,No Internet,Yes
+218,66,51,442,One year,3,Credit Card,DSL,No
+219,69,8,405,One year,10,Debit Card,No Internet,Yes
+220,29,42,1186,One year,6,Bank Transfer,DSL,No
+221,56,52,727,One year,7,Credit Card,Fiber,No
+222,19,15,604,Month-to-month,1,Bank Transfer,DSL,No
+223,20,47,1171,One year,6,Credit Card,DSL,Yes
+224,66,29,616,One year,1,Bank Transfer,DSL,No
+225,54,33,934,Month-to-month,1,UPI,No Internet,Yes
+226,66,52,308,One year,7,Debit Card,Fiber,No
+227,34,30,1073,Month-to-month,1,Bank Transfer,DSL,No
+228,66,39,372,Month-to-month,10,UPI,No Internet,No
+229,19,27,658,Two year,8,Bank Transfer,Fiber,No
+230,19,36,522,Two year,0,Bank Transfer,No Internet,Yes
+231,45,29,715,Two year,8,UPI,No Internet,Yes
+232,40,38,852,Two year,0,Bank Transfer,Fiber,No
+233,54,57,669,One year,9,Bank Transfer,DSL,Yes
+234,49,33,1015,Two year,9,Debit Card,No Internet,No
+235,50,37,563,Month-to-month,1,UPI,No Internet,Yes
+236,18,27,1139,One year,5,UPI,DSL,Yes
+237,36,55,989,Two year,5,Credit Card,DSL,Yes
+238,19,33,1159,Month-to-month,0,Bank Transfer,Fiber,Yes
+239,61,4,617,One year,6,Debit Card,Fiber,No
+240,43,22,383,One year,7,Bank Transfer,Fiber,No
+241,49,2,617,Two year,1,Bank Transfer,DSL,No
+242,23,10,410,One year,7,Credit Card,No Internet,No
+243,49,5,550,Month-to-month,8,Bank Transfer,No Internet,No
+244,21,59,682,One year,5,Debit Card,Fiber,No
+245,28,10,306,Month-to-month,4,Debit Card,DSL,Yes
+246,34,33,758,One year,8,Credit Card,No Internet,No
+247,55,54,383,Two year,10,Bank Transfer,Fiber,Yes
+248,41,38,507,Month-to-month,8,Debit Card,No Internet,Yes
+249,22,13,1199,One year,0,Bank Transfer,No Internet,No
+250,69,31,689,One year,10,Bank Transfer,DSL,Yes
+251,51,47,613,One year,2,Bank Transfer,DSL,Yes
+252,23,36,321,Month-to-month,8,Credit Card,No Internet,Yes
+253,39,45,709,Month-to-month,10,Bank Transfer,Fiber,Yes
+254,28,24,1194,Month-to-month,1,Debit Card,DSL,No
+255,65,52,814,Two year,3,Bank Transfer,No Internet,Yes
+256,33,56,426,Two year,3,Debit Card,DSL,Yes
+257,50,15,1108,Month-to-month,1,Bank Transfer,DSL,No
+258,26,29,999,One year,2,Debit Card,DSL,Yes
+259,23,8,1173,Two year,2,Debit Card,No Internet,No
+260,33,5,313,Month-to-month,0,Bank Transfer,Fiber,Yes
+261,46,29,311,One year,5,Bank Transfer,Fiber,No
+262,20,47,386,Two year,7,Debit Card,Fiber,No
+263,37,4,823,One year,2,UPI,DSL,No
+264,53,12,836,One year,4,Credit Card,No Internet,No
+265,36,45,600,One year,0,UPI,DSL,No
+266,43,2,542,One year,9,UPI,Fiber,Yes
+267,20,27,421,Two year,6,Bank Transfer,Fiber,Yes
+268,36,31,446,Two year,9,Credit Card,No Internet,Yes
+269,37,51,866,Two year,0,UPI,DSL,No
+270,49,51,1049,Month-to-month,10,Bank Transfer,Fiber,Yes
+271,24,36,655,Two year,8,UPI,No Internet,Yes
+272,69,36,984,One year,7,UPI,DSL,Yes
+273,58,26,1032,Two year,6,Bank Transfer,DSL,Yes
+274,50,43,930,One year,9,Bank Transfer,Fiber,Yes
+275,57,27,608,Month-to-month,6,Bank Transfer,Fiber,No
+276,56,5,994,One year,4,Credit Card,DSL,No
+277,35,20,587,One year,4,UPI,DSL,No
+278,57,11,606,One year,10,Bank Transfer,Fiber,No
+279,18,10,1111,Month-to-month,4,Debit Card,DSL,Yes
+280,28,40,893,Two year,0,UPI,Fiber,Yes
+281,45,38,1022,Two year,7,Debit Card,DSL,Yes
+282,42,6,961,Month-to-month,10,Credit Card,Fiber,Yes
+283,67,8,848,One year,0,Bank Transfer,No Internet,No
+284,40,23,651,Two year,3,Debit Card,Fiber,Yes
+285,48,47,611,Month-to-month,8,Credit Card,Fiber,Yes
+286,47,26,1172,Two year,8,Bank Transfer,No Internet,No
+287,59,46,358,Month-to-month,4,Debit Card,DSL,No
+288,52,43,942,One year,3,Debit Card,No Internet,No
+289,24,12,1013,Two year,2,Credit Card,Fiber,No
+290,33,26,1054,Month-to-month,2,Bank Transfer,DSL,No
+291,43,13,334,Two year,4,Bank Transfer,No Internet,Yes
+292,65,40,744,Two year,9,Debit Card,DSL,No
+293,69,18,392,Two year,0,Debit Card,DSL,Yes
+294,66,25,506,Two year,4,Debit Card,No Internet,No
+295,19,33,652,Month-to-month,5,Bank Transfer,DSL,No
+296,18,47,631,One year,6,Credit Card,No Internet,Yes
+297,65,40,1116,Month-to-month,8,Credit Card,Fiber,No
+298,29,60,1161,Month-to-month,2,Bank Transfer,DSL,No
+299,22,43,1024,Month-to-month,1,UPI,Fiber,Yes
+300,54,12,458,One year,2,Credit Card,Fiber,No
+301,49,44,323,Two year,8,Debit Card,DSL,Yes
+302,26,36,703,Two year,6,UPI,No Internet,No
+303,58,48,1104,Two year,8,UPI,DSL,No
+304,52,4,815,One year,1,Credit Card,Fiber,No
+305,36,5,1031,Two year,4,UPI,Fiber,No
+306,65,56,663,One year,3,UPI,No Internet,No
+307,33,37,681,Two year,1,Credit Card,DSL,No
+308,20,8,831,Two year,8,Credit Card,Fiber,Yes
+309,37,42,451,Month-to-month,8,UPI,Fiber,No
+310,41,49,861,One year,5,Debit Card,Fiber,Yes
+311,50,28,988,Month-to-month,10,Bank Transfer,No Internet,No
+312,41,31,907,Month-to-month,5,UPI,Fiber,Yes
+313,69,58,916,Month-to-month,7,UPI,Fiber,Yes
+314,28,9,719,One year,5,Debit Card,DSL,No
+315,66,54,549,One year,0,UPI,DSL,Yes
+316,25,51,416,Two year,3,UPI,Fiber,Yes
+317,53,29,1165,Month-to-month,6,Bank Transfer,Fiber,Yes
+318,55,14,811,Two year,1,Bank Transfer,DSL,Yes
+319,57,40,1039,Month-to-month,8,Bank Transfer,No Internet,Yes
+320,37,41,877,One year,7,Credit Card,No Internet,Yes
+321,52,22,634,One year,7,Credit Card,No Internet,No
+322,65,11,717,One year,6,Bank Transfer,No Internet,Yes
+323,42,23,1073,Month-to-month,3,Bank Transfer,No Internet,No
+324,52,1,594,One year,1,Credit Card,No Internet,Yes
+325,42,46,1054,Month-to-month,2,Debit Card,No Internet,No
+326,46,37,670,Two year,5,UPI,No Internet,No
+327,35,21,485,Month-to-month,4,UPI,DSL,Yes
+328,63,26,545,Two year,7,Bank Transfer,No Internet,No
+329,35,46,936,Month-to-month,5,Debit Card,No Internet,No
+330,19,36,567,Two year,5,Credit Card,No Internet,No
+331,52,54,942,One year,0,Bank Transfer,Fiber,No
+332,33,23,536,Two year,3,Debit Card,DSL,Yes
+333,58,57,829,One year,4,Debit Card,DSL,No
+334,53,1,851,One year,10,Debit Card,DSL,No
+335,50,54,320,Two year,2,Credit Card,No Internet,No
+336,21,55,1036,Month-to-month,8,Credit Card,No Internet,Yes
+337,50,51,1166,Month-to-month,0,UPI,Fiber,No
+338,31,40,1093,Month-to-month,5,UPI,DSL,No
+339,38,15,819,Month-to-month,5,Debit Card,No Internet,Yes
+340,65,21,399,Month-to-month,9,Debit Card,DSL,Yes
+341,37,47,1051,One year,4,Credit Card,Fiber,Yes
+342,25,9,777,Month-to-month,4,UPI,Fiber,No
+343,24,53,898,One year,9,Debit Card,Fiber,No
+344,20,9,597,One year,4,UPI,DSL,No
+345,34,10,825,One year,5,UPI,No Internet,No
+346,50,52,633,Two year,7,Debit Card,No Internet,No
+347,65,57,301,Two year,1,Credit Card,Fiber,Yes
+348,29,53,674,One year,5,Debit Card,No Internet,No
+349,68,26,592,Two year,0,Debit Card,Fiber,No
+350,39,41,1136,Month-to-month,3,UPI,DSL,No
+351,39,35,852,Month-to-month,9,Debit Card,Fiber,No
+352,63,52,617,One year,2,Credit Card,DSL,No
+353,47,25,801,Month-to-month,8,Debit Card,Fiber,No
+354,55,26,1127,One year,2,Credit Card,No Internet,No
+355,55,11,680,One year,5,Credit Card,No Internet,No
+356,62,38,922,Month-to-month,0,UPI,Fiber,No
+357,68,2,313,Two year,5,Bank Transfer,No Internet,Yes
+358,25,7,803,Month-to-month,3,Bank Transfer,No Internet,Yes
+359,44,18,530,Month-to-month,7,UPI,No Internet,Yes
+360,44,27,383,One year,10,Debit Card,DSL,No
+361,51,34,429,One year,8,UPI,No Internet,Yes
+362,38,27,1042,One year,3,Credit Card,DSL,Yes
+363,47,17,1137,One year,9,Bank Transfer,Fiber,Yes
+364,50,43,444,Two year,9,UPI,No Internet,Yes
+365,45,59,1190,Two year,5,Debit Card,No Internet,No
+366,64,44,1156,Two year,0,UPI,No Internet,Yes
+367,50,59,327,One year,3,Bank Transfer,Fiber,No
+368,22,51,365,One year,6,UPI,DSL,No
+369,65,54,462,One year,0,UPI,DSL,No
+370,36,24,528,Two year,7,Bank Transfer,No Internet,Yes
+371,21,25,560,One year,9,Credit Card,Fiber,No
+372,52,7,748,Month-to-month,10,Credit Card,Fiber,No
+373,66,52,723,Month-to-month,5,Bank Transfer,Fiber,No
+374,34,6,759,One year,4,UPI,Fiber,No
+375,61,53,975,Month-to-month,9,Bank Transfer,Fiber,Yes
+376,45,24,600,Month-to-month,10,Credit Card,DSL,Yes
+377,47,33,602,Two year,8,Debit Card,DSL,Yes
+378,46,49,586,One year,1,UPI,DSL,No
+379,63,29,694,One year,4,Credit Card,No Internet,Yes
+380,23,43,309,Two year,5,UPI,Fiber,Yes
+381,52,22,1006,Month-to-month,6,Bank Transfer,No Internet,No
+382,58,26,929,Month-to-month,4,Debit Card,Fiber,Yes
+383,54,28,569,One year,8,Bank Transfer,DSL,Yes
+384,41,50,891,Month-to-month,0,Debit Card,No Internet,No
+385,46,21,904,Two year,6,UPI,DSL,Yes
+386,66,49,1077,Two year,9,UPI,Fiber,Yes
+387,63,7,1143,One year,6,Bank Transfer,Fiber,No
+388,48,17,1161,Two year,3,Debit Card,Fiber,No
+389,52,20,660,Two year,8,Debit Card,DSL,No
+390,50,41,556,One year,10,UPI,Fiber,No
+391,69,49,432,Two year,4,Bank Transfer,DSL,No
+392,38,20,575,Two year,3,Debit Card,No Internet,No
+393,49,54,1075,Two year,6,UPI,Fiber,No
+394,40,22,982,Month-to-month,3,Credit Card,Fiber,No
+395,50,28,812,One year,2,Bank Transfer,Fiber,No
+396,20,40,612,One year,8,Credit Card,No Internet,No
+397,35,49,875,One year,10,Bank Transfer,Fiber,Yes
+398,42,7,1185,Month-to-month,7,UPI,DSL,Yes
+399,59,1,583,Month-to-month,0,Debit Card,DSL,Yes
+400,48,32,420,One year,6,Debit Card,Fiber,No
+401,20,13,406,Month-to-month,8,Debit Card,Fiber,No
+402,57,30,986,One year,7,Bank Transfer,No Internet,No
+403,63,23,503,Month-to-month,7,UPI,No Internet,Yes
+404,41,51,464,Two year,5,Credit Card,No Internet,No
+405,67,59,604,Two year,10,UPI,Fiber,Yes
+406,49,56,796,One year,3,Credit Card,No Internet,Yes
+407,64,19,931,Month-to-month,7,Bank Transfer,No Internet,Yes
+408,39,32,855,Month-to-month,2,Bank Transfer,DSL,No
+409,40,30,1123,Two year,8,Credit Card,No Internet,No
+410,19,29,455,Two year,1,Credit Card,DSL,No
+411,44,49,666,Month-to-month,1,Credit Card,DSL,Yes
+412,59,45,1018,Month-to-month,6,UPI,No Internet,No
+413,19,29,919,Month-to-month,9,Credit Card,DSL,No
+414,43,30,550,Month-to-month,3,Bank Transfer,Fiber,Yes
+415,34,16,1181,Month-to-month,9,Bank Transfer,Fiber,No
+416,57,40,633,Month-to-month,7,Debit Card,No Internet,No
+417,50,19,941,One year,8,Credit Card,Fiber,No
+418,26,18,810,Month-to-month,6,UPI,DSL,No
+419,60,1,592,Two year,4,UPI,Fiber,No
+420,65,14,319,One year,7,UPI,No Internet,Yes
+421,56,51,581,Month-to-month,3,Debit Card,No Internet,No
+422,46,47,1096,Two year,1,Bank Transfer,DSL,Yes
+423,59,50,300,One year,10,UPI,No Internet,Yes
+424,43,2,418,Two year,5,Bank Transfer,Fiber,Yes
+425,52,54,334,Month-to-month,8,Debit Card,No Internet,No
+426,67,28,497,Month-to-month,0,Credit Card,DSL,No
+427,42,49,784,Month-to-month,10,Credit Card,No Internet,Yes
+428,41,50,1056,Month-to-month,9,Credit Card,Fiber,No
+429,30,30,358,One year,6,UPI,DSL,No
+430,24,38,1136,One year,9,Credit Card,Fiber,Yes
+431,53,51,460,Two year,8,UPI,DSL,Yes
+432,62,4,990,Month-to-month,9,Debit Card,No Internet,No
+433,37,1,505,Two year,8,Debit Card,DSL,Yes
+434,18,8,311,One year,9,UPI,DSL,No
+435,25,29,789,Month-to-month,10,Bank Transfer,No Internet,Yes
+436,63,55,575,Month-to-month,2,Credit Card,Fiber,No
+437,33,39,992,One year,10,Credit Card,No Internet,No
+438,31,3,541,One year,4,Credit Card,DSL,No
+439,29,32,515,One year,7,UPI,No Internet,No
+440,68,10,550,One year,7,Debit Card,DSL,No
+441,40,10,1110,One year,3,Credit Card,No Internet,No
+442,32,19,425,Month-to-month,10,Debit Card,No Internet,No
+443,45,46,516,One year,10,Credit Card,Fiber,Yes
+444,51,34,605,Month-to-month,0,Credit Card,DSL,No
+445,19,60,1096,Month-to-month,0,UPI,Fiber,Yes
+446,49,33,484,One year,3,Bank Transfer,DSL,No
+447,40,23,338,One year,5,UPI,No Internet,Yes
+448,39,55,522,Month-to-month,7,Credit Card,DSL,No
+449,68,28,483,One year,5,Credit Card,Fiber,Yes
+450,42,32,794,One year,8,Bank Transfer,Fiber,No
+451,39,50,726,One year,8,Debit Card,Fiber,No
+452,39,7,477,Two year,1,Debit Card,DSL,Yes
+453,66,29,727,Month-to-month,9,Credit Card,Fiber,No
+454,69,8,593,Two year,0,Debit Card,Fiber,Yes
+455,59,1,1151,One year,1,Credit Card,Fiber,No
+456,23,57,450,Two year,4,Bank Transfer,No Internet,No
+457,32,55,683,One year,3,Bank Transfer,No Internet,Yes
+458,60,3,937,Two year,3,Credit Card,DSL,No
+459,54,24,1112,One year,8,Bank Transfer,DSL,Yes
+460,50,23,607,Two year,10,UPI,Fiber,Yes
+461,25,59,635,Two year,7,UPI,No Internet,No
+462,61,8,1045,Two year,5,Bank Transfer,Fiber,Yes
+463,61,54,1191,Month-to-month,0,Credit Card,Fiber,No
+464,22,57,674,Two year,1,Credit Card,No Internet,No
+465,56,47,307,Month-to-month,5,Bank Transfer,No Internet,Yes
+466,21,37,640,One year,10,Debit Card,No Internet,No
+467,23,3,428,Two year,1,UPI,DSL,Yes
+468,62,51,1075,One year,9,Debit Card,DSL,No
+469,49,33,968,One year,4,Credit Card,Fiber,Yes
+470,69,28,651,Two year,4,Credit Card,DSL,Yes
+471,47,47,657,Month-to-month,5,Debit Card,No Internet,Yes
+472,64,8,816,Two year,5,Bank Transfer,No Internet,No
+473,52,34,794,One year,5,Debit Card,DSL,No
+474,57,35,385,One year,1,Debit Card,Fiber,No
+475,69,32,474,Two year,9,UPI,Fiber,No
+476,33,24,1101,Month-to-month,2,UPI,DSL,No
+477,30,14,492,Month-to-month,5,Debit Card,Fiber,No
+478,67,32,610,One year,7,Debit Card,Fiber,Yes
+479,59,56,418,One year,10,Credit Card,Fiber,No
+480,47,46,517,Month-to-month,0,UPI,No Internet,No
+481,36,43,726,Two year,0,UPI,No Internet,Yes
+482,34,16,713,One year,10,Credit Card,DSL,No
+483,36,4,413,Month-to-month,1,Bank Transfer,No Internet,No
+484,45,52,444,One year,10,UPI,Fiber,No
+485,43,37,837,Two year,5,UPI,No Internet,No
+486,54,54,947,Month-to-month,8,Bank Transfer,DSL,Yes
+487,43,21,602,One year,3,UPI,No Internet,Yes
+488,40,14,1043,Two year,2,UPI,Fiber,Yes
+489,26,31,1180,One year,7,Bank Transfer,Fiber,No
+490,29,55,887,Two year,10,Bank Transfer,DSL,Yes
+491,18,48,1139,Two year,9,Debit Card,No Internet,No
+492,18,18,644,Month-to-month,8,Credit Card,No Internet,Yes
+493,64,7,1113,Two year,10,Credit Card,No Internet,Yes
+494,51,10,1100,One year,4,Bank Transfer,Fiber,No
+495,49,7,300,Two year,8,Bank Transfer,DSL,No
+496,65,33,446,Two year,1,UPI,No Internet,Yes
+497,42,23,586,Month-to-month,2,Debit Card,Fiber,No
+498,57,21,953,Two year,6,Debit Card,Fiber,No
+499,62,19,352,Two year,6,Bank Transfer,Fiber,Yes
+500,18,48,603,One year,5,UPI,No Internet,Yes
+501,33,19,368,Month-to-month,5,UPI,No Internet,No
+502,56,36,660,Month-to-month,1,Credit Card,No Internet,No
+503,22,29,901,Month-to-month,9,Credit Card,No Internet,Yes
+504,39,60,519,Two year,5,UPI,No Internet,No
+505,46,18,1003,Month-to-month,3,Credit Card,No Internet,No
+506,20,2,874,Two year,2,Bank Transfer,No Internet,No
+507,29,1,884,Two year,10,UPI,No Internet,No
+508,43,47,460,One year,1,Credit Card,No Internet,No
+509,33,5,980,One year,0,Debit Card,Fiber,No
+510,68,20,388,One year,10,UPI,No Internet,No
+511,54,11,987,One year,10,UPI,DSL,No
+512,39,42,1080,One year,4,Debit Card,Fiber,No
+513,46,2,884,Two year,1,Bank Transfer,No Internet,No
+514,31,3,1056,Two year,1,Debit Card,DSL,Yes
+515,45,23,888,Month-to-month,6,UPI,No Internet,No
+516,22,55,458,Two year,7,Bank Transfer,DSL,No
+517,64,12,788,Two year,9,Credit Card,DSL,No
+518,66,20,623,One year,7,Credit Card,DSL,No
+519,47,5,909,Two year,3,Credit Card,DSL,No
+520,63,37,680,One year,0,UPI,Fiber,Yes
+521,69,38,401,Month-to-month,10,Debit Card,Fiber,No
+522,22,30,793,Month-to-month,6,Bank Transfer,DSL,No
+523,29,9,943,Two year,0,Credit Card,No Internet,Yes
+524,33,34,913,Month-to-month,10,Bank Transfer,DSL,Yes
+525,43,53,318,Two year,3,UPI,Fiber,No
+526,43,44,753,Month-to-month,7,Credit Card,No Internet,Yes
+527,65,35,781,One year,1,UPI,Fiber,Yes
+528,38,52,893,One year,5,Debit Card,Fiber,No
+529,56,58,696,One year,5,UPI,No Internet,No
+530,53,22,578,One year,8,UPI,DSL,No
+531,50,44,1150,Two year,4,Debit Card,DSL,No
+532,47,24,664,Month-to-month,9,Bank Transfer,DSL,Yes
+533,54,17,630,Two year,3,Debit Card,DSL,No
+534,40,10,940,One year,4,Debit Card,No Internet,No
+535,27,30,643,Two year,9,UPI,No Internet,No
+536,22,56,1121,Month-to-month,10,Bank Transfer,No Internet,No
+537,53,59,754,Two year,4,Credit Card,Fiber,No
+538,51,46,900,Month-to-month,7,Debit Card,No Internet,No
+539,69,23,1024,Two year,9,Bank Transfer,DSL,No
+540,48,32,954,Month-to-month,7,Debit Card,Fiber,No
+541,27,17,364,Month-to-month,1,Debit Card,DSL,No
+542,36,50,375,One year,6,Debit Card,DSL,No
+543,49,51,1010,Month-to-month,7,Debit Card,No Internet,No
+544,18,17,442,One year,10,UPI,No Internet,No
+545,22,14,1127,One year,5,Bank Transfer,DSL,No
+546,62,9,904,One year,4,Bank Transfer,DSL,No
+547,21,40,772,Two year,10,Bank Transfer,Fiber,No
+548,33,2,716,Two year,8,Debit Card,No Internet,No
+549,41,45,604,Two year,2,UPI,Fiber,No
+550,33,25,1035,Two year,9,Debit Card,Fiber,No
+551,19,39,796,Month-to-month,3,Debit Card,Fiber,No
+552,66,9,590,Month-to-month,8,Bank Transfer,DSL,No
+553,45,54,401,Two year,5,Debit Card,Fiber,No
+554,49,22,566,Month-to-month,7,Credit Card,Fiber,No
+555,44,43,1166,Month-to-month,6,Debit Card,DSL,No
+556,37,46,921,One year,10,Credit Card,No Internet,No
+557,41,4,1141,One year,1,Debit Card,No Internet,Yes
+558,29,26,1076,One year,2,UPI,Fiber,No
+559,67,58,302,One year,0,UPI,DSL,No
+560,52,29,384,Month-to-month,8,Bank Transfer,No Internet,No
+561,50,45,1093,Two year,6,Debit Card,Fiber,No
+562,50,34,627,Month-to-month,0,Credit Card,Fiber,No
+563,68,23,1115,Month-to-month,2,Credit Card,DSL,No
+564,60,37,749,Month-to-month,3,Debit Card,Fiber,No
+565,54,11,753,One year,3,Credit Card,No Internet,No
+566,29,6,928,One year,4,UPI,DSL,No
+567,20,18,520,One year,2,Credit Card,No Internet,Yes
+568,18,21,453,Two year,2,Bank Transfer,No Internet,No
+569,50,42,964,Month-to-month,0,UPI,No Internet,No
+570,57,36,311,Two year,6,UPI,Fiber,Yes
+571,27,41,432,One year,10,UPI,Fiber,No
+572,60,38,603,Two year,9,Debit Card,No Internet,No
+573,61,34,592,Month-to-month,0,Debit Card,No Internet,Yes
+574,46,17,599,Month-to-month,1,UPI,DSL,No
+575,30,37,1039,One year,3,Debit Card,DSL,Yes
+576,29,25,1082,One year,3,Credit Card,Fiber,No
+577,48,38,342,Two year,4,Debit Card,Fiber,No
+578,63,58,642,One year,10,Debit Card,DSL,No
+579,19,12,625,One year,1,UPI,No Internet,Yes
+580,68,23,1113,Month-to-month,3,Bank Transfer,Fiber,Yes
+581,67,53,797,One year,0,Bank Transfer,No Internet,Yes
+582,52,42,663,One year,1,Bank Transfer,DSL,No
+583,40,22,1190,Month-to-month,0,Credit Card,Fiber,Yes
+584,34,21,726,Month-to-month,9,Debit Card,Fiber,No
+585,43,27,320,Two year,9,Bank Transfer,DSL,Yes
+586,25,57,706,One year,3,UPI,Fiber,No
+587,46,31,918,Month-to-month,3,Bank Transfer,DSL,Yes
+588,43,6,635,Two year,6,Bank Transfer,Fiber,Yes
+589,27,27,1114,Two year,9,Debit Card,DSL,No
+590,43,40,416,One year,10,Debit Card,Fiber,Yes
+591,51,34,423,One year,10,Debit Card,No Internet,Yes
+592,68,12,698,Two year,8,Credit Card,No Internet,No
+593,58,45,1092,Month-to-month,8,Credit Card,No Internet,No
+594,24,57,1103,Two year,4,Bank Transfer,Fiber,No
+595,21,53,1014,One year,9,Debit Card,Fiber,Yes
+596,67,7,350,Month-to-month,0,Bank Transfer,No Internet,No
+597,62,10,1082,Month-to-month,0,UPI,No Internet,Yes
+598,28,45,623,Two year,5,UPI,DSL,Yes
+599,46,17,1088,One year,1,Debit Card,DSL,No
+600,53,26,440,Two year,7,Debit Card,DSL,No
+601,42,21,769,Two year,8,UPI,No Internet,Yes
+602,38,28,1086,Two year,3,Debit Card,No Internet,No
+603,53,58,1101,Month-to-month,4,Credit Card,No Internet,Yes
+604,27,46,633,Month-to-month,10,Credit Card,DSL,No
+605,54,2,1192,One year,7,Debit Card,Fiber,Yes
+606,26,60,672,One year,2,UPI,No Internet,Yes
+607,41,54,863,Two year,4,Bank Transfer,Fiber,No
+608,52,43,793,Two year,2,Debit Card,Fiber,No
+609,66,1,838,Two year,9,Debit Card,Fiber,No
+610,52,51,968,One year,2,Bank Transfer,DSL,Yes
+611,65,53,1050,Month-to-month,2,Debit Card,Fiber,Yes
+612,53,36,455,Month-to-month,6,Bank Transfer,No Internet,No
+613,35,51,590,Two year,6,UPI,DSL,Yes
+614,66,26,947,Two year,6,Credit Card,No Internet,No
+615,56,29,443,Two year,9,UPI,No Internet,Yes
+616,49,21,405,Two year,7,Credit Card,DSL,No
+617,41,11,719,One year,4,Bank Transfer,No Internet,No
+618,40,40,969,Month-to-month,4,Credit Card,No Internet,Yes
+619,49,11,957,Two year,3,UPI,DSL,No
+620,54,36,301,One year,6,Credit Card,No Internet,No
+621,29,49,888,Two year,9,Bank Transfer,Fiber,Yes
+622,66,59,943,Two year,3,Credit Card,No Internet,No
+623,30,39,389,Month-to-month,1,Debit Card,Fiber,No
+624,40,40,644,Two year,3,UPI,No Internet,Yes
+625,42,35,649,Month-to-month,7,Debit Card,DSL,No
+626,52,54,758,Month-to-month,8,Bank Transfer,DSL,Yes
+627,58,34,562,Month-to-month,2,Credit Card,No Internet,No
+628,47,55,650,One year,6,Debit Card,DSL,No
+629,34,47,407,One year,8,Debit Card,No Internet,No
+630,66,24,885,Month-to-month,10,Credit Card,DSL,No
+631,37,54,338,Two year,3,Credit Card,Fiber,No
+632,65,22,458,Month-to-month,9,UPI,No Internet,No
+633,42,5,882,Two year,2,Debit Card,Fiber,Yes
+634,39,56,611,Month-to-month,4,Debit Card,Fiber,No
+635,30,33,540,Two year,0,Bank Transfer,No Internet,Yes
+636,36,58,744,One year,2,UPI,Fiber,No
+637,66,36,597,Two year,7,Bank Transfer,No Internet,No
+638,53,47,335,Month-to-month,10,Debit Card,Fiber,Yes
+639,29,20,383,One year,7,Bank Transfer,No Internet,Yes
+640,58,19,751,Two year,3,Debit Card,No Internet,Yes
+641,36,35,1185,Two year,1,Debit Card,DSL,No
+642,29,52,1074,Two year,7,Bank Transfer,No Internet,No
+643,26,43,1121,Two year,7,Bank Transfer,No Internet,No
+644,24,17,684,Two year,9,Credit Card,Fiber,No
+645,45,59,471,One year,3,Credit Card,No Internet,No
+646,31,45,675,One year,2,Credit Card,DSL,Yes
+647,48,43,984,One year,1,Debit Card,Fiber,Yes
+648,69,34,661,One year,8,Bank Transfer,Fiber,No
+649,36,9,858,Month-to-month,0,UPI,DSL,No
+650,64,26,1190,One year,6,Debit Card,Fiber,Yes
+651,33,2,440,Two year,4,UPI,Fiber,Yes
+652,22,53,1186,Two year,7,Bank Transfer,Fiber,Yes
+653,52,9,417,One year,3,Debit Card,Fiber,No
+654,29,9,576,Two year,6,UPI,DSL,Yes
+655,42,40,1025,One year,4,UPI,DSL,No
+656,69,17,519,Two year,4,Credit Card,Fiber,No
+657,38,1,325,Month-to-month,8,Credit Card,Fiber,Yes
+658,53,25,820,Month-to-month,8,Credit Card,DSL,No
+659,40,43,1082,One year,8,Debit Card,DSL,No
+660,33,40,309,One year,5,Bank Transfer,DSL,No
+661,56,42,677,One year,5,Bank Transfer,Fiber,No
+662,62,25,932,Two year,4,Credit Card,Fiber,No
+663,59,39,936,One year,8,Credit Card,No Internet,No
+664,56,35,981,Month-to-month,9,Credit Card,DSL,No
+665,31,3,883,Two year,7,UPI,Fiber,Yes
+666,48,50,451,One year,6,Credit Card,DSL,Yes
+667,22,37,1019,Two year,6,UPI,Fiber,Yes
+668,52,44,348,Two year,5,Bank Transfer,DSL,Yes
+669,40,44,453,One year,4,Debit Card,Fiber,Yes
+670,46,51,1158,Two year,3,Debit Card,No Internet,Yes
+671,60,30,592,Month-to-month,2,Debit Card,No Internet,No
+672,28,38,879,Month-to-month,2,Debit Card,DSL,No
+673,35,34,349,Two year,5,UPI,Fiber,No
+674,64,12,963,One year,3,UPI,Fiber,No
+675,29,19,830,Two year,5,Credit Card,DSL,No
+676,26,37,911,Month-to-month,2,UPI,Fiber,No
+677,27,44,359,Two year,3,Credit Card,DSL,No
+678,61,59,466,Two year,8,Credit Card,Fiber,Yes
+679,34,59,501,Month-to-month,4,Debit Card,DSL,No
+680,55,49,1156,Two year,6,UPI,Fiber,No
+681,24,17,445,Two year,9,UPI,DSL,No
+682,63,10,975,One year,1,Credit Card,Fiber,Yes
+683,30,57,738,One year,4,Credit Card,No Internet,Yes
+684,57,55,541,Month-to-month,8,Bank Transfer,Fiber,No
+685,59,49,880,Month-to-month,10,Bank Transfer,DSL,No
+686,26,47,986,Month-to-month,2,Credit Card,No Internet,Yes
+687,67,12,860,One year,8,Bank Transfer,Fiber,Yes
+688,44,16,782,Month-to-month,10,Bank Transfer,No Internet,No
+689,19,24,407,Month-to-month,5,Credit Card,Fiber,No
+690,22,19,525,Month-to-month,3,Credit Card,No Internet,Yes
+691,46,8,972,One year,6,UPI,DSL,No
+692,54,31,930,Two year,7,Credit Card,Fiber,Yes
+693,55,21,960,Month-to-month,5,Credit Card,Fiber,Yes
+694,36,17,961,Two year,4,Debit Card,DSL,No
+695,25,23,731,Month-to-month,5,UPI,No Internet,Yes
+696,65,37,1104,Two year,4,UPI,DSL,No
+697,62,54,954,One year,7,UPI,DSL,No
+698,18,16,718,One year,0,Debit Card,No Internet,No
+699,39,6,754,Month-to-month,10,Credit Card,DSL,Yes
+700,69,8,459,Two year,6,UPI,Fiber,Yes
+701,34,25,822,One year,9,UPI,Fiber,Yes
+702,24,18,949,Month-to-month,9,Bank Transfer,Fiber,No
+703,42,25,889,Month-to-month,10,UPI,DSL,No
+704,62,12,376,One year,1,Credit Card,Fiber,No
+705,21,15,808,One year,8,Credit Card,Fiber,No
+706,53,59,740,Month-to-month,0,Bank Transfer,Fiber,No
+707,23,26,553,Two year,10,UPI,Fiber,No
+708,48,41,1069,Two year,9,UPI,Fiber,Yes
+709,36,45,619,Two year,5,UPI,Fiber,Yes
+710,61,26,1102,Month-to-month,8,Debit Card,DSL,No
+711,56,47,562,One year,0,UPI,Fiber,Yes
+712,44,32,896,Month-to-month,3,Credit Card,Fiber,Yes
+713,27,10,957,One year,3,Credit Card,No Internet,No
+714,43,16,1134,Two year,8,Debit Card,DSL,No
+715,36,7,853,Two year,10,Debit Card,DSL,Yes
+716,56,17,673,One year,4,UPI,DSL,No
+717,20,23,936,One year,4,Bank Transfer,DSL,No
+718,62,26,466,Month-to-month,5,Debit Card,Fiber,No
+719,30,21,1052,Two year,0,Debit Card,Fiber,Yes
+720,67,22,758,Month-to-month,0,UPI,No Internet,Yes
+721,45,58,579,Month-to-month,8,UPI,No Internet,No
+722,37,7,999,Month-to-month,2,Debit Card,DSL,No
+723,45,14,601,Two year,3,Bank Transfer,No Internet,No
+724,25,15,830,Month-to-month,0,Debit Card,No Internet,No
+725,58,53,879,Month-to-month,8,UPI,DSL,Yes
+726,56,7,517,Month-to-month,7,UPI,DSL,Yes
+727,18,9,401,Month-to-month,1,Debit Card,No Internet,No
+728,20,51,853,Month-to-month,7,Bank Transfer,Fiber,Yes
+729,30,48,587,Month-to-month,6,Debit Card,No Internet,Yes
+730,45,8,466,Two year,10,Debit Card,No Internet,No
+731,66,50,920,Month-to-month,5,UPI,Fiber,Yes
+732,42,59,335,One year,0,Bank Transfer,Fiber,Yes
+733,50,23,1043,Month-to-month,6,Credit Card,DSL,No
+734,55,29,1040,Month-to-month,9,Bank Transfer,DSL,Yes
+735,23,18,652,Two year,6,Debit Card,No Internet,Yes
+736,61,31,975,Two year,8,Debit Card,Fiber,No
+737,62,30,1198,One year,0,Debit Card,DSL,No
+738,49,52,372,One year,1,Bank Transfer,No Internet,Yes
+739,62,39,947,Two year,10,UPI,Fiber,No
+740,64,35,652,Two year,8,Debit Card,No Internet,Yes
+741,38,18,1190,Month-to-month,8,Debit Card,DSL,No
+742,33,59,369,Two year,5,Bank Transfer,DSL,No
+743,38,42,724,One year,5,Credit Card,Fiber,No
+744,28,39,1007,Month-to-month,3,Credit Card,No Internet,No
+745,54,17,1080,One year,3,UPI,Fiber,Yes
+746,53,14,860,Month-to-month,4,UPI,DSL,Yes
+747,52,31,1127,Two year,2,Debit Card,DSL,No
+748,36,24,941,One year,0,Bank Transfer,No Internet,Yes
+749,37,35,816,Month-to-month,0,Debit Card,No Internet,Yes
+750,35,44,727,Month-to-month,6,UPI,No Internet,No
+751,64,60,838,Two year,0,Bank Transfer,Fiber,No
+752,58,45,459,Two year,0,Bank Transfer,No Internet,No
+753,66,34,448,Two year,2,UPI,No Internet,Yes
+754,31,3,1075,One year,9,Credit Card,DSL,No
+755,32,37,529,Month-to-month,3,Credit Card,DSL,Yes
+756,48,43,1011,Two year,3,Bank Transfer,No Internet,Yes
+757,18,40,861,One year,1,Debit Card,No Internet,No
+758,20,26,366,One year,0,Credit Card,DSL,Yes
+759,33,55,1111,One year,2,Debit Card,No Internet,Yes
+760,40,23,680,Two year,10,Credit Card,Fiber,No
+761,28,44,357,Two year,3,Credit Card,Fiber,Yes
+762,29,39,558,Month-to-month,2,Debit Card,Fiber,Yes
+763,27,15,641,Month-to-month,7,UPI,No Internet,Yes
+764,49,56,1137,Two year,9,Credit Card,DSL,No
+765,33,49,429,One year,0,Credit Card,No Internet,No
+766,25,4,1026,One year,1,Debit Card,No Internet,No
+767,55,29,471,One year,6,UPI,DSL,No
+768,29,22,1069,Month-to-month,3,Credit Card,DSL,No
+769,41,25,913,One year,7,Credit Card,DSL,No
+770,45,13,508,Month-to-month,10,UPI,Fiber,Yes
+771,25,18,1102,Month-to-month,2,Credit Card,No Internet,Yes
+772,45,33,653,One year,5,UPI,DSL,No
+773,53,16,770,One year,8,UPI,No Internet,Yes
+774,43,45,1097,Two year,0,Debit Card,Fiber,No
+775,25,42,415,Two year,0,Bank Transfer,Fiber,No
+776,67,44,563,One year,7,UPI,DSL,No
+777,45,2,961,Month-to-month,2,Debit Card,DSL,No
+778,45,55,1111,Month-to-month,4,Bank Transfer,No Internet,No
+779,54,35,741,Month-to-month,0,Credit Card,DSL,Yes
+780,58,42,847,Month-to-month,4,Bank Transfer,No Internet,No
+781,53,34,752,Month-to-month,10,UPI,DSL,No
+782,44,30,1144,Two year,5,UPI,No Internet,No
+783,34,59,776,One year,7,UPI,No Internet,Yes
+784,26,55,586,Two year,2,UPI,No Internet,Yes
+785,50,13,602,Month-to-month,2,UPI,No Internet,Yes
+786,37,13,610,Month-to-month,10,Debit Card,Fiber,No
+787,30,18,507,Month-to-month,10,UPI,No Internet,No
+788,45,32,917,Month-to-month,9,Debit Card,DSL,Yes
+789,65,32,745,One year,8,Credit Card,Fiber,No
+790,46,35,969,Month-to-month,3,UPI,Fiber,Yes
+791,30,59,932,One year,3,UPI,No Internet,No
+792,63,39,354,Month-to-month,6,Bank Transfer,Fiber,No
+793,52,46,311,One year,1,Credit Card,No Internet,Yes
+794,23,52,956,Two year,7,UPI,DSL,No
+795,35,29,699,Month-to-month,5,UPI,No Internet,No
+796,68,49,947,One year,2,Credit Card,Fiber,No
+797,22,29,814,Two year,8,Debit Card,DSL,No
+798,64,53,955,Month-to-month,4,UPI,No Internet,No
+799,42,44,841,Month-to-month,7,Bank Transfer,DSL,Yes
+800,19,57,536,Month-to-month,6,UPI,DSL,No
+801,27,16,578,One year,7,Bank Transfer,Fiber,No
+802,47,56,647,One year,6,Bank Transfer,DSL,No
+803,67,44,926,Two year,2,UPI,Fiber,Yes
+804,62,47,403,One year,1,UPI,DSL,Yes
+805,22,57,929,One year,6,Bank Transfer,No Internet,Yes
+806,50,10,816,Month-to-month,2,Credit Card,DSL,Yes
+807,18,30,1171,Month-to-month,2,Credit Card,No Internet,Yes
+808,35,25,547,Month-to-month,1,UPI,No Internet,No
+809,49,39,663,Month-to-month,3,Debit Card,DSL,Yes
+810,64,20,620,Month-to-month,7,Credit Card,No Internet,Yes
+811,66,5,932,Month-to-month,0,UPI,DSL,No
+812,28,1,585,Month-to-month,0,Credit Card,DSL,Yes
+813,38,30,448,Two year,4,Debit Card,No Internet,Yes
+814,43,49,383,Two year,10,UPI,No Internet,Yes
+815,42,3,705,Two year,4,Debit Card,Fiber,Yes
+816,39,45,755,Two year,10,UPI,No Internet,No
+817,44,14,1042,Month-to-month,0,Debit Card,Fiber,Yes
+818,66,56,1099,Two year,5,Credit Card,No Internet,No
+819,30,30,460,Month-to-month,0,Credit Card,DSL,No
+820,50,50,1083,Two year,4,Debit Card,No Internet,No
+821,51,4,759,One year,8,Debit Card,DSL,No
+822,58,18,849,Two year,4,Debit Card,DSL,No
+823,52,37,799,Two year,5,UPI,DSL,No
+824,18,25,1037,Month-to-month,7,Credit Card,Fiber,Yes
+825,38,48,808,Two year,10,UPI,No Internet,Yes
+826,65,1,953,One year,0,Credit Card,DSL,No
+827,23,53,1103,Month-to-month,1,Bank Transfer,DSL,Yes
+828,45,46,780,Month-to-month,8,UPI,Fiber,Yes
+829,34,15,962,Two year,2,Credit Card,No Internet,No
+830,22,9,413,Month-to-month,5,Credit Card,No Internet,No
+831,48,15,1048,Month-to-month,4,UPI,Fiber,Yes
+832,22,49,877,Month-to-month,10,UPI,Fiber,No
+833,55,57,660,Month-to-month,1,Credit Card,No Internet,Yes
+834,20,24,640,Month-to-month,6,UPI,Fiber,No
+835,40,4,1069,Month-to-month,3,Debit Card,No Internet,Yes
+836,54,12,1060,One year,0,UPI,No Internet,Yes
+837,54,59,748,Two year,3,UPI,DSL,No
+838,27,58,1142,One year,5,UPI,DSL,No
+839,27,37,1134,Month-to-month,6,Credit Card,No Internet,No
+840,36,37,479,Month-to-month,6,Debit Card,No Internet,No
+841,34,43,1001,Two year,6,Bank Transfer,No Internet,Yes
+842,38,60,706,One year,2,Bank Transfer,No Internet,No
+843,31,6,965,Two year,5,Debit Card,No Internet,Yes
+844,26,39,495,One year,7,Debit Card,No Internet,Yes
+845,63,56,765,Month-to-month,3,Debit Card,Fiber,Yes
+846,18,46,610,Two year,7,Credit Card,No Internet,No
+847,68,24,561,Two year,1,Bank Transfer,Fiber,No
+848,62,11,718,Month-to-month,9,Debit Card,Fiber,No
+849,30,13,705,Two year,8,Credit Card,No Internet,No
+850,21,34,442,One year,8,Bank Transfer,No Internet,Yes
+851,18,25,641,One year,7,UPI,Fiber,No
+852,66,7,615,One year,9,Credit Card,Fiber,No
+853,57,52,400,One year,9,Bank Transfer,No Internet,Yes
+854,49,4,543,Month-to-month,0,Credit Card,No Internet,No
+855,51,59,789,Two year,1,Bank Transfer,Fiber,Yes
+856,45,8,311,One year,5,Bank Transfer,Fiber,No
+857,48,20,538,Month-to-month,9,UPI,Fiber,No
+858,25,29,860,Two year,4,Credit Card,DSL,No
+859,56,54,341,Two year,8,Debit Card,Fiber,Yes
+860,43,53,977,Month-to-month,4,UPI,DSL,Yes
+861,51,51,893,Month-to-month,1,UPI,No Internet,Yes
+862,20,45,728,One year,9,Bank Transfer,No Internet,Yes
+863,67,46,1102,Two year,3,Debit Card,Fiber,Yes
+864,29,10,457,Two year,8,Credit Card,No Internet,No
+865,18,43,515,Month-to-month,0,Debit Card,No Internet,No
+866,61,34,969,Two year,10,Debit Card,No Internet,No
+867,22,57,761,One year,0,Debit Card,No Internet,No
+868,47,26,433,Two year,6,Debit Card,DSL,Yes
+869,47,41,366,Month-to-month,10,Debit Card,DSL,No
+870,34,49,1147,Month-to-month,2,Bank Transfer,Fiber,Yes
+871,65,58,306,One year,9,Bank Transfer,Fiber,No
+872,64,3,825,One year,1,UPI,Fiber,No
+873,40,56,372,Two year,8,Bank Transfer,No Internet,No
+874,32,6,698,Two year,2,UPI,No Internet,Yes
+875,54,5,704,Month-to-month,1,UPI,DSL,No
+876,38,5,974,One year,7,Credit Card,DSL,No
+877,31,54,877,One year,9,Debit Card,Fiber,Yes
+878,19,47,1158,One year,5,Bank Transfer,DSL,No
+879,28,23,429,Two year,5,Credit Card,DSL,No
+880,68,49,765,One year,9,Bank Transfer,DSL,No
+881,56,9,505,Month-to-month,10,UPI,DSL,Yes
+882,55,35,1087,Month-to-month,6,Bank Transfer,DSL,Yes
+883,51,20,1067,Two year,6,Debit Card,Fiber,Yes
+884,55,58,565,Two year,10,UPI,Fiber,Yes
+885,67,49,836,One year,5,UPI,DSL,Yes
+886,51,59,1092,Two year,3,Credit Card,Fiber,Yes
+887,35,42,552,Month-to-month,10,Debit Card,No Internet,No
+888,47,35,1121,One year,8,UPI,DSL,No
+889,32,50,588,Month-to-month,5,Debit Card,No Internet,Yes
+890,44,18,463,One year,3,Bank Transfer,Fiber,Yes
+891,68,17,394,Two year,2,Debit Card,Fiber,No
+892,51,24,1081,One year,3,UPI,No Internet,Yes
+893,69,3,1132,One year,2,Credit Card,Fiber,No
+894,55,32,409,Month-to-month,1,UPI,DSL,No
+895,50,35,635,Month-to-month,4,Debit Card,No Internet,No
+896,41,38,1121,One year,1,Debit Card,DSL,No
+897,32,13,537,Two year,5,UPI,No Internet,No
+898,47,56,680,Two year,2,Debit Card,Fiber,No
+899,59,47,735,Month-to-month,5,Bank Transfer,No Internet,Yes
+900,68,25,1198,Two year,10,UPI,No Internet,No
+901,34,9,782,Month-to-month,9,Credit Card,DSL,No
+902,22,4,324,Two year,8,UPI,Fiber,Yes
+903,46,14,952,One year,0,Bank Transfer,DSL,Yes
+904,21,37,416,Month-to-month,5,Bank Transfer,Fiber,Yes
+905,27,34,781,Month-to-month,8,Bank Transfer,DSL,No
+906,34,11,691,One year,10,Bank Transfer,No Internet,Yes
+907,27,41,836,Month-to-month,3,Bank Transfer,DSL,Yes
+908,34,56,378,Two year,10,Credit Card,Fiber,Yes
+909,37,3,879,Two year,1,Debit Card,Fiber,No
+910,41,59,472,Month-to-month,3,Bank Transfer,No Internet,Yes
+911,22,28,311,Two year,0,Bank Transfer,Fiber,No
+912,51,29,1099,Month-to-month,2,UPI,DSL,No
+913,23,9,427,One year,9,Credit Card,No Internet,No
+914,19,3,907,Month-to-month,8,Credit Card,Fiber,No
+915,30,25,391,One year,9,Debit Card,Fiber,Yes
+916,60,34,952,Two year,4,Credit Card,DSL,Yes
+917,60,12,842,One year,10,UPI,DSL,No
+918,65,42,1145,Two year,5,UPI,No Internet,Yes
+919,28,9,831,Month-to-month,2,Debit Card,Fiber,Yes
+920,68,15,957,Two year,4,UPI,DSL,No
+921,64,40,1127,Month-to-month,10,Bank Transfer,No Internet,Yes
+922,40,25,746,Month-to-month,7,Bank Transfer,Fiber,No
+923,33,5,689,One year,5,UPI,Fiber,Yes
+924,48,11,971,One year,3,Debit Card,No Internet,No
+925,28,59,1160,One year,1,Credit Card,No Internet,No
+926,33,34,342,One year,8,Debit Card,DSL,No
+927,25,24,553,Two year,0,Credit Card,Fiber,Yes
+928,21,60,429,Two year,0,UPI,Fiber,No
+929,57,15,359,Two year,3,UPI,Fiber,No
+930,21,38,962,Month-to-month,6,Bank Transfer,No Internet,No
+931,42,8,766,Two year,0,Credit Card,DSL,Yes
+932,20,59,586,Two year,8,Debit Card,Fiber,No
+933,49,5,816,Two year,3,UPI,No Internet,No
+934,20,48,766,One year,2,Debit Card,Fiber,No
+935,44,26,1077,Two year,0,Bank Transfer,DSL,No
+936,46,18,644,Month-to-month,9,Credit Card,Fiber,Yes
+937,49,6,941,One year,3,Credit Card,DSL,No
+938,67,37,681,Month-to-month,8,UPI,DSL,No
+939,68,60,1078,Two year,9,Credit Card,Fiber,No
+940,36,48,989,One year,5,UPI,Fiber,No
+941,38,13,552,Month-to-month,5,Bank Transfer,DSL,No
+942,22,28,355,Two year,0,Credit Card,No Internet,No
+943,35,5,762,Month-to-month,9,UPI,DSL,Yes
+944,45,13,756,Month-to-month,1,Debit Card,Fiber,Yes
+945,59,17,382,Month-to-month,10,UPI,Fiber,No
+946,39,50,398,Two year,5,Credit Card,No Internet,No
+947,38,40,448,Two year,1,Bank Transfer,DSL,Yes
+948,23,45,628,Month-to-month,2,Credit Card,DSL,Yes
+949,18,32,455,One year,3,Credit Card,DSL,Yes
+950,22,29,489,One year,10,UPI,Fiber,No
+951,58,51,793,Two year,4,Debit Card,DSL,Yes
+952,29,58,1182,Two year,8,Credit Card,No Internet,No
+953,43,3,562,Two year,3,Debit Card,Fiber,No
+954,63,56,379,Two year,10,UPI,Fiber,No
+955,51,40,699,Two year,8,Debit Card,DSL,No
+956,66,34,1063,One year,10,UPI,No Internet,No
+957,31,40,908,Two year,9,Bank Transfer,Fiber,Yes
+958,43,27,559,Month-to-month,2,Debit Card,Fiber,No
+959,62,13,1071,Month-to-month,7,Debit Card,DSL,No
+960,44,45,914,One year,0,Bank Transfer,DSL,No
+961,26,33,851,Month-to-month,10,Debit Card,No Internet,Yes
+962,43,6,1084,One year,8,Bank Transfer,DSL,Yes
+963,64,24,400,One year,8,Credit Card,No Internet,Yes
+964,39,19,658,Month-to-month,9,UPI,Fiber,Yes
+965,64,16,679,Two year,1,Bank Transfer,No Internet,No
+966,47,40,1119,Month-to-month,3,Debit Card,No Internet,Yes
+967,60,28,520,Month-to-month,7,Bank Transfer,No Internet,No
+968,65,33,1119,One year,6,Debit Card,Fiber,Yes
+969,34,59,719,Month-to-month,0,Credit Card,DSL,Yes
+970,43,59,423,One year,4,Bank Transfer,Fiber,No
+971,53,48,721,Two year,6,Credit Card,DSL,Yes
+972,18,41,530,Two year,3,UPI,No Internet,Yes
+973,25,13,989,Two year,0,Debit Card,No Internet,No
+974,66,43,362,Month-to-month,8,Debit Card,No Internet,No
+975,52,45,784,One year,4,Credit Card,No Internet,Yes
+976,69,25,927,Two year,10,UPI,No Internet,No
+977,32,53,1002,One year,1,Bank Transfer,DSL,No
+978,64,42,873,One year,7,Bank Transfer,DSL,No
+979,39,36,1067,Two year,10,Debit Card,No Internet,Yes
+980,31,27,782,Two year,1,Credit Card,Fiber,Yes
+981,43,38,818,One year,2,Credit Card,Fiber,Yes
+982,45,60,454,Two year,9,Bank Transfer,No Internet,Yes
+983,40,7,391,One year,0,UPI,DSL,No
+984,31,5,825,One year,10,UPI,Fiber,No
+985,41,43,754,Two year,1,Bank Transfer,Fiber,No
+986,19,45,1040,Month-to-month,6,Bank Transfer,Fiber,Yes
+987,62,58,897,Two year,9,Credit Card,No Internet,No
+988,43,57,944,Month-to-month,1,UPI,Fiber,Yes
+989,31,51,809,One year,5,Bank Transfer,Fiber,No
+990,68,31,482,One year,2,Bank Transfer,Fiber,No
+991,24,23,685,Month-to-month,3,Debit Card,Fiber,No
+992,20,42,873,One year,10,Bank Transfer,DSL,No
+993,64,10,1030,Month-to-month,7,Bank Transfer,No Internet,Yes
+994,40,32,704,Month-to-month,2,UPI,No Internet,No
+995,63,43,545,One year,9,Credit Card,DSL,No
+996,60,53,1041,Month-to-month,5,UPI,DSL,No
+997,64,30,890,Two year,0,Credit Card,No Internet,No
+998,62,39,960,Two year,6,Debit Card,Fiber,No
+999,35,31,949,One year,7,Bank Transfer,Fiber,Yes
+1000,55,18,770,One year,10,Debit Card,No Internet,No
